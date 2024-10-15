@@ -1,5 +1,5 @@
 public class Player {
-    String namePlayer = "HORNIE HIPPO 2711";
+    String namePlayer = "GothBoy69";
     int x;
     int y;
     int health = 100;
